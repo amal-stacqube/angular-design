@@ -1,0 +1,26 @@
+.wrapper{
+    background-color: #010101;
+    height: 100vh;
+}
+.card{
+    border: none;
+    border-radius: 0; 
+}
+.card-body{
+    transition: 400ms ease-in-out;
+    background: #111013;
+}
+.card-body:hover{
+    background-color: #c70c2b !important;
+}
+.card img{
+    border-radius: 0;
+}
+.about-btn{
+    width: 250px;
+    height: 50px;
+    transition: 400ms ease-in-out;
+}
+.about-btn:hover{
+    border-color: #c70c2b !important;
+}

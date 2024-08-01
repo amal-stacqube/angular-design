@@ -1,0 +1,11 @@
+.wrapper{
+    background-color: #010101;
+   }
+   .work-btn{
+    width: 250px;
+    height: 50px;
+    transition: 400ms ease-in-out;
+}
+.work-btn:hover{
+    border-color: #c70c2b !important;
+}

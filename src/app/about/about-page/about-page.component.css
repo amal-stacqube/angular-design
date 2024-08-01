@@ -1,0 +1,48 @@
+.wrapper{
+ background-color: #111013;
+}
+.description{
+    width: 750px;
+}
+.about-btn{
+    width: 250px;
+    height: 50px;
+    transition: 400ms ease-in-out;
+}
+.about-btn:hover{
+    border-color: #c70c2b !important;
+}
+.client-review{
+    width: 100% !important;
+    background-color: #111013;
+}
+.client-review-text{
+    width: 75%;
+}
+.success-story{
+    background-color: #010101;
+}
+.card{
+    border: none;
+    border-radius: 0; 
+}
+.card-body{
+    transition: 400ms ease-in-out;
+    background: #111013;
+}
+.card-body:hover{
+    background-color: #c70c2b !important;
+}
+.card img{
+    border-radius: 0;
+}
+.get-in-touch-btn{
+    background-color: #c70c2b;
+    width: 350px;
+    height: 50px;
+}
+.get-in-touch-btn:hover{
+    border: 1px solid #6C757D ;
+    background: none;
+    transition: 300ms ease-in-out;
+}
